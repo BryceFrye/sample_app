@@ -1,6 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
+    ZenTest (4.6.2)
     abstract (1.0.0)
     actionmailer (3.0.9)
       actionpack (= 3.0.9)
@@ -98,6 +99,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  ZenTest
   annotate (= 2.4.0)
   factory_girl_rails (= 1.0)
   gravatar_image_tag (= 1.0.0.pre2)
